@@ -11,4 +11,5 @@ In this project, we study about the generative models and implement it with the 
 - Flow Matching
 - Conditional Diffusion
 - Conditional Flow Matching
+  
 Each model implementation is on its own folder. All of the models are implemented in Google Colaborator.
