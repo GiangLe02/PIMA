@@ -1,10 +1,10 @@
-# Project IMA: Stochastic interpolants for image generative
+# Project IMA: Stochastic interpolants for Image Generation
 
-Contributor: Nesrine Naaman, Le Nguyen Huong Giang
+Contributors: Nesrine Naaman, Le Nguyen Huong Giang
 
 Supervisor: Anastase Charantonis
 
-In this project, we study about the generative models and implement it with the MNIST dataset.
+In this project, we learned about state-of-the-art generative models and implemented them with the MNIST dataset.
 
 ## Models we have worked on
 - Diffusion
@@ -12,4 +12,4 @@ In this project, we study about the generative models and implement it with the 
 - Conditional Diffusion
 - Conditional Flow Matching
   
-Each model implementation is on its own folder. All of the models are implemented in Google Colaborator.
+Each model implementation is in its own folder. All of the models were implemented on Google Colaboratory.
